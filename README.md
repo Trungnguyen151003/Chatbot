@@ -1,6 +1,6 @@
 # RAG-based Chatbot (FastAPI + WebSocket Streaming)
 
-A document-aware chatbot built with FastAPI. It uses a Retrieval-Augmented Generation (RAG) pipeline with LangChain + Chroma to answer questions grounded on a local Markdown knowledge base, and supports real-time streaming responses via WebSocket. It also includes an image generation demo page.
+A document-aware chatbot built with FastAPI. It uses a Retrieval-Augmented Generation (RAG) pipeline with LangChain + Chroma to answer questions grounded on a local Markdown knowledge base, and supports real-time streaming responses via WebSocket. 
 
 ## Features
 - Real-time streaming chat using WebSocket (token/word-by-word streaming).
